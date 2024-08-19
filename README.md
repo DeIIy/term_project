@@ -15,10 +15,10 @@ This project facilitates and personalizes the users' meal menu planning process 
 
 ## Screenshots
 
-![Screenshots_1](https://github.com/DeIIy/term_project/blob/main/README_Folder/Register.png)    ![Gray_Blank](https://github.com/DeIIy/term_project/blob/main/README_Folder/Gray.png)    ![Screenshots_2](https://github.com/DeIIy/term_project/blob/main/README_Folder/Login.png)
-![Screenshots_3](https://github.com/DeIIy/term_project/blob/main/README_Folder/Edit_Profile.png)    ![Gray_Blank](https://github.com/DeIIy/term_project/blob/main/README_Folder/Gray.png)    ![Screenshots_4](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_1.png)
-![Screenshots_5](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_2.png)    ![Gray_Blank](https://github.com/DeIIy/term_project/blob/main/README_Folder/Gray.png)    ![Screenshots_6](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_3.png)
-![Screenshots_7](https://github.com/DeIIy/term_project/blob/main/README_Folder/Homepage_1.png)    ![Gray_Blank](https://github.com/DeIIy/term_project/blob/main/README_Folder/Gray.png)    ![Screenshots_8](https://github.com/DeIIy/term_project/blob/main/README_Folder/Homepage_2.png)
+![Screenshots_1](https://github.com/DeIIy/term_project/blob/main/README_Folder/Register.png)![Screenshots_2](https://github.com/DeIIy/term_project/blob/main/README_Folder/Login.png)
+![Screenshots_3](https://github.com/DeIIy/term_project/blob/main/README_Folder/Edit_Profile.png)![Screenshots_4](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_1.png)
+![Screenshots_5](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_2.png)![Screenshots_6](https://github.com/DeIIy/term_project/blob/main/README_Folder/Market_Page_3.png)
+![Screenshots_7](https://github.com/DeIIy/term_project/blob/main/README_Folder/Homepage_1.png)![Screenshots_8](https://github.com/DeIIy/term_project/blob/main/README_Folder/Homepage_2.png)
 
 ## Setup
 
