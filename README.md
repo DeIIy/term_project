@@ -77,4 +77,4 @@ If you have questions or suggestions about this project, please email [ytetlik68
 - [Dart Official Documentation](https://dart.dev/tools/dart-tool)
 - [Learning Sqlite](https://ibrahim-kurce.medium.com/flutter-ve-sqlite-ile-todo-uygulamas%C4%B1-4b45d6268660)
 
-For more detailed information, review the project report: [Insurance Company Website Report](https://github.com/DeIIy/term_project/blob/main/README_Folder/Bilisim_Proje_Raporu.pdf).
+For more detailed information, review the project report: [Term Project Report](https://github.com/DeIIy/term_project/blob/main/README_Folder/Bilisim_Proje_Raporu.pdf).
